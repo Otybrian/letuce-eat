@@ -1,0 +1,56 @@
+.section1 {
+    background-image: url("images/image2.png");
+    background-size: cover;
+    height: 500px;
+}
+.navbar {
+  display: flex;
+}
+.section1 .navbar #logo{
+  display: flex;
+  margin-left: 35px;
+}
+.section1 .navbar #logo h5 {
+    color: orange;
+}
+#list {
+   display: flex;
+   margin-left: 42.5%;
+   margin-top: 0px;
+   background-color: rgba(85, 85, 84, 0.7);
+   height: 40px;
+   padding-top: 15px;
+   padding-left: 2px;
+}
+#other {
+    color: white;
+}
+#list span {
+    color: orange;
+}
+#list button {
+    height: 30px;
+    width: 100px;
+    background-color: orange;
+    border: solid orange;
+    color: white;
+    margin-top: -5px;
+}
+#list li{
+    list-style: none;
+    padding: 0px 30px;
+}
+#advert {
+    margin-top: 80px;
+    margin-left: 45px;
+}
+#advert h2 {
+    color: white;
+}
+#advert button {
+    height: 30px;
+    width: 100px;
+    background-color: orange;
+    border: solid orange;
+    color: white;
+}
