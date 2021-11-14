@@ -80,3 +80,21 @@
     padding-top: 20px;
     width: 250px;
 }
+.section3 {
+    display: flex;
+    background-color: black;
+}
+.section3 p{
+    font-style: italic;
+}
+#reviews {
+    text-align: center;
+    margin-left: 140px;
+    margin-top: 60px;
+    color: white;
+    
+}
+#reviews h1{
+    border-bottom: solid white;
+    padding-bottom: 20px;
+}
