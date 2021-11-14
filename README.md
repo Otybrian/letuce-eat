@@ -1,11 +1,11 @@
 Brian Odhiambo  1318 hrs
-# The_Burger_Palace
+# Letuce_eat
 https://github.com/Otybrian/letuce-eat
-The_Burger_Palace
+Letuce_eat
 # Author
 Brian Odhiambo Otieno.
 ### Description
-The website is about a burger restaurant.
+The website is about Moringa burger restaurant.
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
@@ -24,7 +24,7 @@ https://github.com/Otybrian/letuce-eat
 View [Live]  https://github.com/Otybrian/letuce-eat
 ### Licence
 This project is under the  [MIT](license) license
-MercyBore/The_Burger_Palace
-This is a simple website for a restaurant selling burgers.
+Brian Odhiambo/MIT license
+This is a simple website for a restaurant.
 Website
 https://github.com/Otybrian/letuce-eat

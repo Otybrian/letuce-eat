@@ -20,7 +20,7 @@ html {
    display: flex;
    margin-left: 42.5%;
    margin-top: 0px;
-   background-color: rgba(85, 85, 84, 0.7);
+   background-color: rgba(85, 85, 84, 0.4);
    height: 40px;
    padding-top: 15px;
    padding-left: 2px;
@@ -30,6 +30,7 @@ html {
 }
 #list span {
     color: orange;
+    background-color: transparent;
 }
 #list button {
     height: 30px;
