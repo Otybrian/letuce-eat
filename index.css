@@ -98,3 +98,37 @@
     border-bottom: solid white;
     padding-bottom: 20px;
 }
+.section4 {
+    text-align: center;
+    background-color: #eae9eb;
+    margin-top: -20px;
+    height: 780px;
+}
+.section4 h2 {
+    color: orange;
+}
+.section4 h4 {
+    color: orange;
+}
+.section4 p{
+    font-style: italic;
+}
+#menu {
+    display: flex;
+    margin-left: 12%;
+}
+#menu1 {
+    display: flex;
+    margin-left: 12%;
+}
+#box {
+    display: flex;
+    border: solid white;
+    background-color: white;
+    margin: 25px;
+    width: 420px;
+}
+#meals {
+    text-align: left;
+    margin-left: 15px;
+}
